@@ -24,9 +24,9 @@ O sistema oferece uma interface para cadastro e gerenciamento de várias entidad
 
 ## Documentação
 A documentação do projeto inclui:
-- [Diagramas de Casos de Uso](./docs/casos-de-uso)
-- [Modelo de Banco de Dados (MER)](./docs/banco-de-dados)
-- [Protótipos de Telas](./docs/telas)
+- [Diagramas de Casos de Uso](./docs/casos-de-uso.md)
+- [Modelo de Banco de Dados (MER)](./docs/banco-de-dados.md)
+- [Protótipos de Telas](./docs/telas.md)
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
